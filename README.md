@@ -1,4 +1,4 @@
-# 🛡️ VitalCare Health Solutions  Executive Phishing Email Analysis Report (Aug 2025)
+# 🛡️ VitalCare Health Solutions  Executive Phishing Email Analysis Report (September 2025)
 
 **Analyst:** Onaopemipo David Olugbemiro  
 **Role:** SOC Analyst Consultant 
